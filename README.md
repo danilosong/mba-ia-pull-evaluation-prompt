@@ -177,7 +177,7 @@ python src/push_prompts.py
 Projeto de avaliação no LangSmith:
 
 ```text
-https://smith.langchain.com/projects/prompt-optimization-challenge-resolved
+https://smith.langchain.com/public/1000ca55-68c6-4350-8d27-ed39d22b80fa/d
 ```
 
 ### Resultado da Última Execução
