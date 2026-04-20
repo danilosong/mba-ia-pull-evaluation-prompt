@@ -223,12 +223,27 @@ https://smith.langchain.com/hub/danilosong/bug_to_user_story_v2
 
 ### Screenshots e Evidências
 
-Evidências a anexar ou manter no repositório/entrega:
+As imagens abaixo documentam a avaliação final, o dataset no LangSmith e os traces gerados durante a execução.
 
-- Screenshot do dashboard com as avaliações.
-- Screenshot mostrando o dataset com 15 exemplos.
-- Screenshot de pelo menos 3 traces detalhados.
-- Screenshot da avaliação final com todas as métricas acima de 0.9.
+#### Avaliação final no terminal
+
+![Avaliação final com todas as métricas acima de 0.9](docs/metrics_logs.png)
+
+#### Dataset e experimentos no LangSmith
+
+![Dataset de avaliação no LangSmith](docs/dataset.png)
+
+#### Tracing das execuções
+
+![Tracing das execuções do prompt otimizado](docs/tracing.png)
+
+#### Dashboard de monitoramento
+
+![Dashboard de traces no LangSmith](docs/dashboard.png)
+
+![Dashboard de chamadas LLM no LangSmith](docs/dashboard2.png)
+
+![Dashboard de custos e tokens no LangSmith](docs/dashboard3.png)
 
 ## Testes de Validação
 
